@@ -1,1 +1,2 @@
-# Egorov-repository
+# Egorov-repositor
+первая лабараторная
